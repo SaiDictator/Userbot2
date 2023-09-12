@@ -1,4 +1,4 @@
-""" RiZoeLX 2022 © SpamX """
+""" Monster 2022 © SpamX """
 import os
 import sys
 import re
@@ -11,11 +11,11 @@ if os.path.exists(".env"):
     load_dotenv(".env")
 
 # -------------CONFIGS--------------------
-API_ID = int(os.getenv("API_ID", "20310034"))
+API_ID = int(os.getenv("API_ID", "6697540778"))
 if not API_ID:
    print("SpamX [INFO]: You didn't fill API_ID var!")
    sys.exit()
-API_HASH = os.getenv("API_HASH", "e0d2c11f4ba291ce596868e73df87519")
+API_HASH = os.getenv("API_HASH", "ebda30a1-c581-4115-8537-195662fa8991")
 if not API_HASH:
    print("SpamX [INFO]: You didn't fill API_HASH var!")
    sys.exit()
@@ -60,7 +60,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", None))
 if not OWNER_ID:
    print("SpamX [INFO]: You didn't fill OWNER_ID var!")
    sys.exit()
-SUDO_USERS = os.getenv("SUDO_USERS", "6123932615")
+SUDO_USERS = os.getenv("SUDO_USERS", "6697540778")
 
 #Optional
 DATABASE_URL = os.getenv("DATABASE_URL", None)
