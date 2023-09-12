@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/Monster_Bot_Store"><img src="https://graph.org/file/a5b4f18770caacd1cdc7c.jpg"></a></p>   
+<p align="center"><a href="https://t.me/Moster_Bot_Store"><img src="https://graph.org/file/a5b4f18770caacd1cdc7c.jpg"></a></p>   
   
   <h6 align="center">   
      <b>• Ⓞթ ѕραм  ϐγ 𝗖𝗼𝗗𝗲𝗫 </b>   
   
   
          
-   [⚡𝐈𝛕ᷟ͢𝚣⃪ꙴ𐎓⃝🌺🇲𝗼𝗻𝘀𝘁𝗲𝗿❤‍🔥⃟⃚⃐ 🌿⚡](https://t.me/Monster_Bot_Store)   
+   [⚡𝐈𝛕ᷟ͢𝚣⃪ꙴ𐎓⃝🌺🇲𝗼𝗻𝘀𝘁𝗲𝗿❤‍🔥⃟⃚⃐ 🌿⚡](https://t.me/Moster_Bot_Store)   
   
   
            ─「 ᎠᎬᏢᏞϴᎽ ϴΝ ᎻᎬᎡϴᏦႮ 」─   
