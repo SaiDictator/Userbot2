@@ -1,4 +1,4 @@
-""" RiZoeLX 2022-2023 © SpamX """
+""" Monster 2022-2023 © SpamX """
 
 import re
 
