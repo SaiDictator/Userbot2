@@ -1,4 +1,4 @@
-""" Monster 2022-2023 © SpamX """
+""" Dead 2022-2023 © SpamX """
 
 import re
 
