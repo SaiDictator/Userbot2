@@ -9,8 +9,8 @@
           "SpamX",  
           "Monster"  
         ],     
-    "repository": "https://github.com/SaiDictator/Userbot2",  
-    "website": "https://github.com/SaiDictator",  
+    "repository": "https://github.com/De1dMonster/Userbot1",  
+    "website": "https://github.com/De1dMonster",  
     "success_url": "https://t.me/DE1D_KILLER",  
     "env": {  
                "API_ID": {  
