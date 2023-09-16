@@ -20,7 +20,7 @@
         },  
         "ALIVE_PIC": {  
           "description": "your alive pic or video",  
-          "value": "https://graph.org/file/a5b4f18770caacd1cdc7c.jpg",  
+          "value": "https://telegra.ph/file/0b539fb3c7e5218f61c92.jpg",  
           "required": false  
         },  
         "API_HASH": {  
