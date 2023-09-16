@@ -15,7 +15,7 @@ API_ID = int(os.getenv("API_ID", "5870293807"))
 if not API_ID:
    print("SpamX [INFO]: You didn't fill API_ID var!")
    sys.exit()
-API_HASH = os.getenv("API_HASH", "aac7ffbd8ad1987df6ef93826c3ef67f"))
+API_HASH = os.getenv("API_HASH", "aac7ffbd8ad1987df6ef93826c3ef67f")
 if not API_HASH:
    print("SpamX [INFO]: You didn't fill API_HASH var!")
    sys.exit()
