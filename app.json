@@ -11,7 +11,7 @@
         ],     
     "repository": "https://github.com/SaiDictator/Userbot2",  
     "website": "https://github.com/SaiDictator",  
-    "success_url": "https://t.me/DE1D_KILLER",  
+    "success_url": "https://t.me/Saif_Dictator",  
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
