@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/Moster_Bot_Store"><img src="https://telegra.ph/file/0b539fb3c7e5218f61c92.jpg"></a></p>   
+<p align="center"><a href="https://t.me/DAEDX_HELP"><img src="https://graph.org/file/f4e84fef88c1c848c138f.jpg"></a></p>   
   
   <h6 align="center">   
-     <b>• Ⓞթ ѕραм  ϐγ ᴅᴇᴀᴅ </b>   
+     <b>• Ⓞթ ѕραм  ϐγ ⚡🇩𝜩Ⓐ︎🇩 ⚡ </b>   
   
   
          
-   [⚡🇩𝜩🅐🇩⚡ ](https://t.me/Moster_Bot_Store)   
+   [⚡🇩𝜩Ⓐ︎🇩⚡](https://t.me/DAEDX_HELP)   
   
   
            ─「 ᎠᎬᏢᏞϴᎽ ϴΝ ᎻᎬᎡϴᏦႮ 」─   
@@ -32,5 +32,5 @@
    ━━━━━━━━━━━━━━━━━━━━━━  
     <h3>Credits</h3>   
   
-     - <b> [RiZoeL](https://github.com/MrRizoel) : Dev/creator of SpamX </b>    
+     - <b> [RiZoeL](https://github.com/SaiDictator) : Dev/creator of SpamX </b>    
      - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX
