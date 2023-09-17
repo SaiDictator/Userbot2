@@ -1,17 +1,17 @@
 {  
-        "name": "☆⚡🇩𝜩🅐🇩⚡☆",  
-        "description": "A Pyrogram Based spam Bots With Many Cmds Fast And Stable",  
-        "logo": "https://telegra.ph/file/0b539fb3c7e5218f61c92.jpg",  
+        "name": "☆ ⚡🇩𝜩Ⓐ︎🇩 ⚡☆",  
+        "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",  
+        "logo": "https://graph.org/file/f4e84fef88c1c848c138f.jpg",  
         "keywords": [  
           "telegram",  
           "PYROGRAM",  
           "telegram-bot",  
           "SpamX",  
-          "Monster"  
+          "Dead"  
         ],     
     "repository": "https://github.com/SaiDictator/Userbot2",  
     "website": "https://github.com/SaiDictator",  
-    "success_url": "https://t.me/Saif_Dictator",  
+    "success_url": "https://t.me/SAIF_DICTATOR",  
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
@@ -20,7 +20,7 @@
         },  
         "ALIVE_PIC": {  
           "description": "your alive pic or video",  
-          "value": "https://telegra.ph/file/0b539fb3c7e5218f61c92.jpg",  
+          "value": "https://graph.org/file/f4e84fef88c1c848c138f.jpg",  
           "required": false  
         },  
         "API_HASH": {  
@@ -67,4 +67,4 @@
             "url": "heroku/python"  
           }  
       ]  
-  }
+}
