@@ -1,12 +1,11 @@
-
 # Versions
 
 from .clients import *
 from SpamX.config import *
 
-from .version import __version__
-from RiZoeLX import __version__ as rizoelx_vr
-from pyrogram import __version__ as pyro_vr
+from .version import version
+from RiZoeLX import version as rizoelx_vr
+from pyrogram import version as pyro_vr
 import platform
 
 from RiZoeLX.functions import start_spamX
@@ -134,13 +133,13 @@ def Run_SpamX():
          start_spamX(RiZoeL20, "session")
     
     print(f"SpamX - [INFO]: Python Version - {platform.python_version()}")
-    print(f"SpamX - [INFO]: SpamX Version - {__version__}")
+    print(f"SpamX - [INFO]: SpamX Version - {version}")
     print(f"SpamX - [INFO]: pyRiZoeLX Version - {rizoelx_vr}")
     print(f"SpamX - [INFO]: Pyrogram Version - {pyro_vr}")
     print(""" \n\n
      ╒═══════════════════════════╕
       Your SpamX has been Deployed!!
-      Visit @Saif_Dictator for updates!
+      Visit @DAEDX_HELP for updates!
      ╘═══════════════════════════╛
     """)
     idle()
