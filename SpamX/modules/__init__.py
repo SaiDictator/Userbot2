@@ -1,16 +1,16 @@
 from SpamX.config import *
-from SpamX.core.version import __version__
+from SpamX.core.version import version
 from SpamX import sudoser, RiZoeL 
-from RiZoeLX import __version__ as pip_vr
-from pyrogram import __version__ as pyro_vr
+from RiZoeLX import version as pip_vr
+from pyrogram import version as pyro_vr
 import platform
 
-__version__ = __version__
+version = version
 
 
-ping_msg = PING_MSG if PING_MSG else "⚡🇩𝜩🅐🇩⚡"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0b539fb3c7e5218f61c92.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by ⚡🇩𝜩🅐🇩⚡"
+ping_msg = PING_MSG if PING_MSG else "⚡🇩𝜩Ⓐ︎🇩 ⚡"
+pic = ALIVE_PIC if ALIVE_PIC else "https://graph.org/file/f4e84fef88c1c848c138f.jpg"
+amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by ⚡🇩𝜩Ⓐ︎🇩 ⚡"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -22,12 +22,12 @@ class Alive:
      Pic = pic
      
      msg = f"""
-**[⚡🇩𝜩🅐🇩⚡](https://t.me/Moster_Bot_Store)
+**[⚡🇩𝜩Ⓐ︎🇩 ⚡](https://t.me/DAEDX_HELP)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
-➪ **𝗠คѕƬєя:** ☆⚡🇩𝜩🅐🇩⚡☆
-➪ **𝗣ƴƬнοи ⩔єяនɨ០ɳ:** `{platform.python_version()}`
-➪ **⚡🇩𝜩🅐🇩⚡ ⩔єяនɨ០ɳ:** `{__version__}`
-➪ **𝗣ƴяο ⩔єяនɨ០ɳ:** `{pyro_vr}`
+➪ 𝗠คѕƬєя: ☆⚡🇩𝜩Ⓐ︎🇩 ⚡☆
+➪ 𝗣ƴƬнοи ⩔єяនɨ០ɳ: {platform.python_version()}
+➪ ⚡🇩𝜩Ⓐ︎🇩 ⚡ ⩔єяនɨ០ɳ: {version}
+➪ 𝗣ƴяο ⩔єяនɨ០ɳ: {pyro_vr}
 ◈ •━━━━━★✦♡✦★━━━━━• ◈
      """
 
